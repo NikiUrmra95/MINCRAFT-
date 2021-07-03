@@ -1,6 +1,14 @@
 # MINCRAFT-INSTALLER
-The setup Windows Is https://www.minecraft.net/en-us/download Download windows or download from releases 
--open setup when complete Then follow 2 instuctions on the next screen
+Welcom To Minecraft Explore the aventure in minecraft make a shelther craft stuf (Sword) (Pickaxe) (axe) (Shovel) Kill Animals to eat food go to minechaft and explore .. 
+
+# STEPS FOR MINECRAFT WINDOWS SETUP 
+ - First Go Download From Releases 
+ - then click on the first one 
+ - then open the file after a while 
+ - then follow the 2 instructions on the next screen
+
+
+
 
 ![Capture](https://user-images.githubusercontent.com/86622134/123834634-9edf4c80-d8d5-11eb-91e9-8d51d55ac1fd.PNG)
 ![Install](https://user-images.githubusercontent.com/86622134/123835383-73a92d00-d8d6-11eb-92b6-0ae5738a3e72.PNG)
@@ -8,7 +16,7 @@ The setup Windows Is https://www.minecraft.net/en-us/download Download windows o
 Wait until The Setup is completed
 THEN ENJOY
 
-# credits
+# CREDITS
 Created by Mojang 
 Branch-main
 hobby is minecraft server
@@ -16,6 +24,7 @@ hobby is minecraft server
 
 # SETUP
 Windows miscroft installation 
+THIS IS MISCROFT CONTROL SETUP!!!!!!!!!! 
 
 
 
