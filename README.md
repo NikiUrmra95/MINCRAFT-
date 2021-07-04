@@ -22,8 +22,8 @@ THEN ENJOY
 
 
 # SETUP
-Windows miscroft installation 
-THIS IS MISCROFT CONTROL SETUP!!!!!!!!!!
+ - Windows miscroft installation 
+ - THIS IS MISCROFT CONTROL SETUP!!!!!!!!!!
 
 # MORE INFO
  - More info At CONTRUBUTING.md 
