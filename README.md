@@ -24,7 +24,11 @@ hobby is minecraft server
 
 # SETUP
 Windows miscroft installation 
-THIS IS MISCROFT CONTROL SETUP!!!!!!!!!! 
+THIS IS MISCROFT CONTROL SETUP!!!!!!!!!!
+
+# MORE INFO
+ - More info At CONTRUBUTING.md 
+ - But the steps are not finshed yet you need to go to CONTRUBUTING.md for more info
 
 
 
