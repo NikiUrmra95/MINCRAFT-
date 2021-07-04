@@ -17,9 +17,8 @@ Wait until The Setup is completed
 THEN ENJOY
 
 # CREDITS
-Created by Mojang 
-Branch-main
-hobby is minecraft server
+Mojang
+Microsoft
 
 
 # SETUP
