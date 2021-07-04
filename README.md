@@ -17,8 +17,8 @@ Wait until The Setup is completed
 THEN ENJOY
 
 # CREDITS
-Mojang
-Microsoft
+ - Mojang
+ - Microsoft
 
 
 # SETUP
